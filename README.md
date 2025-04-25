@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SiddhanthBhokare
 - 👀 I’m interested in Mechatronics
 - 🌱 I’m currently learning Python
-- 📫 Reach me at sidbhkre@gmail.com
+- 📫 Reach me at sidbhkr@gmail.com
